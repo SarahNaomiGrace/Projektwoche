@@ -1,0 +1,15 @@
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\bin\Debug\net8.0\MeinProjekt.exe
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\bin\Debug\net8.0\MeinProjekt.deps.json
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\bin\Debug\net8.0\MeinProjekt.runtimeconfig.json
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\bin\Debug\net8.0\MeinProjekt.dll
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\bin\Debug\net8.0\MeinProjekt.pdb
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\MeinProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\MeinProjekt.AssemblyInfoInputs.cache
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\MeinProjekt.AssemblyInfo.cs
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\MeinProjekt.csproj.CoreCompileInputs.cache
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\MeinProjekt.sourcelink.json
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\MeinProjekt.dll
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\refint\MeinProjekt.dll
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\MeinProjekt.pdb
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\MeinProjekt.genruntimeconfig.cache
+C:\Users\GöhringSarah\source\repos\Projektwoche\MeinProjekt\obj\Debug\net8.0\ref\MeinProjekt.dll
