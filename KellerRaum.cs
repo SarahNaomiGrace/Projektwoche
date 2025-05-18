@@ -121,7 +121,7 @@ namespace MeinProjekt
             }
 
             Console.WriteLine();
-            Console.WriteLine(" Du hast alle Versuche verbraucht..");
+            Console.WriteLine(" Das war falsch. Du hast alle Versuche verbraucht..");
             Thread.Sleep(3000);
             Console.WriteLine();
             Console.WriteLine(" Nun musst du hoffen, dass dich irgendjemand rettet..");

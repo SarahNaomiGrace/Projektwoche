@@ -35,7 +35,7 @@ namespace MeinProjekt
                     Console.WriteLine(" In deinem Inventar findest du eine Taschenlampe..");
                     Thread.Sleep(4000);
                     Console.WriteLine();
-                    Console.WriteLine(" Jetzt leuchtest mit dieser durch den Raum ...");
+                    Console.WriteLine(" Jetzt leuchtest du mit dieser durch den Raum ...");
                     Thread.Sleep(2000);
                     Console.ReadKey();
                     Console.WriteLine();
@@ -119,9 +119,9 @@ namespace MeinProjekt
                                     Thread.Sleep(2000);
                                     Console.WriteLine();
                                     Console.WriteLine(" Mutig steigst du die Leiter hinab ...");
+                                    Thread.Sleep(2000);
                                     Console.ReadKey();
                                     Console.Clear();
-                                    Thread.Sleep(2000);
                                     return new KellerRaum();
                                 }
                                 else
